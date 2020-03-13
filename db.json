@@ -1,0 +1,24 @@
+{
+"products"; [
+{"id":1,"name":"Vulture, egyptian","category":"Fuscia"},
+{"id":2,"name":"Gull, southern black-backed","category":"Mauv"},
+{"id":3,"name":"Argalis","category":"Pink"},
+{"id":4,"name":"Pine squirrel","category":"Puce"},
+{"id":5,"name":"Green-backed heron","category":"Red"},
+{"id":6,"name":"Yellow-brown sungazer","category":"Puce"},
+{"id":7,"name":"Ibis, sacred","category":"Teal"},
+{"id":8,"name":"Cuis","category":"Aquamarine"},
+{"id":9,"name":"Wolf, common","category":"Turquoise"},
+{"id":10,"name":"Hudsonian godwit","category":"Red"},
+{"id":11,"name":"Rainbow lory","category":"Orange"},
+{"id":12,"name":"Dunnart, fat-tailed","category":"Pink"},
+{"id":13,"name":"Deer, black-tailed","category":"Yellow"},
+{"id":14,"name":"Capuchin, black-capped","category":"Teal"},
+{"id":15,"name":"Brocket, brown","category":"Green"},
+{"id":16,"name":"Woodpecker, red-headed","category":"Khaki"},
+{"id":17,"name":"Devil, tasmanian","category":"Crimson"},
+{"id":18,"name":"Baboon, gelada","category":"Violet"},
+{"id":19,"name":"Three-banded plover","category":"Turquoise"},
+{"id":20,"name":"Openbill, asian","category":"Pink"}
+]
+}
